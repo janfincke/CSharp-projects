@@ -1,0 +1,6 @@
+c:\users\jan\documents\visual studio 2015\Projects\lambda1\lambda1\bin\Debug\lambda1.exe.config
+c:\users\jan\documents\visual studio 2015\Projects\lambda1\lambda1\obj\Debug\lambda1.csprojResolveAssemblyReference.cache
+c:\users\jan\documents\visual studio 2015\Projects\lambda1\lambda1\bin\Debug\lambda1.exe
+c:\users\jan\documents\visual studio 2015\Projects\lambda1\lambda1\bin\Debug\lambda1.pdb
+c:\users\jan\documents\visual studio 2015\Projects\lambda1\lambda1\obj\Debug\lambda1.exe
+c:\users\jan\documents\visual studio 2015\Projects\lambda1\lambda1\obj\Debug\lambda1.pdb

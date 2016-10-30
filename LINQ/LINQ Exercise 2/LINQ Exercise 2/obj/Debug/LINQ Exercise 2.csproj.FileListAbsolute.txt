@@ -1,0 +1,6 @@
+c:\users\jan\documents\visual studio 2015\Projects\LINQ Exercise 2\LINQ Exercise 2\bin\Debug\LINQ Exercise 2.exe.config
+c:\users\jan\documents\visual studio 2015\Projects\LINQ Exercise 2\LINQ Exercise 2\bin\Debug\LINQ Exercise 2.exe
+c:\users\jan\documents\visual studio 2015\Projects\LINQ Exercise 2\LINQ Exercise 2\bin\Debug\LINQ Exercise 2.pdb
+c:\users\jan\documents\visual studio 2015\Projects\LINQ Exercise 2\LINQ Exercise 2\obj\Debug\LINQ Exercise 2.exe
+c:\users\jan\documents\visual studio 2015\Projects\LINQ Exercise 2\LINQ Exercise 2\obj\Debug\LINQ Exercise 2.pdb
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\LINQ Exercise 2\LINQ Exercise 2\obj\Debug\LINQ Exercise 2.csprojResolveAssemblyReference.cache

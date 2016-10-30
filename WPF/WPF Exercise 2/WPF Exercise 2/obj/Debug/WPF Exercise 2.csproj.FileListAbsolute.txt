@@ -1,0 +1,13 @@
+c:\users\jan\documents\visual studio 2015\Projects\WPF Exercise 2\WPF Exercise 2\bin\Debug\WPF Exercise 2.exe.config
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\WPF Exercise 2\WPF Exercise 2\bin\Debug\WPF Exercise 2.exe
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\WPF Exercise 2\WPF Exercise 2\bin\Debug\WPF Exercise 2.pdb
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\WPF Exercise 2\WPF Exercise 2\obj\Debug\MainWindow.g.cs
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\WPF Exercise 2\WPF Exercise 2\obj\Debug\App.g.cs
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\WPF Exercise 2\WPF Exercise 2\obj\Debug\WPF Exercise 2_MarkupCompile.cache
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\WPF Exercise 2\WPF Exercise 2\obj\Debug\WPF Exercise 2_MarkupCompile.lref
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\WPF Exercise 2\WPF Exercise 2\obj\Debug\MainWindow.baml
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\WPF Exercise 2\WPF Exercise 2\obj\Debug\WPF Exercise 2.g.resources
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\WPF Exercise 2\WPF Exercise 2\obj\Debug\WPF_Exercise_2.Properties.Resources.resources
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\WPF Exercise 2\WPF Exercise 2\obj\Debug\WPF Exercise 2.csproj.GenerateResource.Cache
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\WPF Exercise 2\WPF Exercise 2\obj\Debug\WPF Exercise 2.exe
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\WPF Exercise 2\WPF Exercise 2\obj\Debug\WPF Exercise 2.pdb

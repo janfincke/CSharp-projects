@@ -1,0 +1,5 @@
+C:\Users\kf\OneDrive\VIA\DNPI2\ASYNC\Examples\13 - Task Exceptions\bin\Debug\Wincubate.Module13.Slide13.exe
+C:\Users\kf\OneDrive\VIA\DNPI2\ASYNC\Examples\13 - Task Exceptions\bin\Debug\Wincubate.Module13.Slide13.pdb
+C:\Users\kf\OneDrive\VIA\DNPI2\ASYNC\Examples\13 - Task Exceptions\obj\Debug\13 - Task Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\kf\OneDrive\VIA\DNPI2\ASYNC\Examples\13 - Task Exceptions\obj\Debug\Wincubate.Module13.Slide13.exe
+C:\Users\kf\OneDrive\VIA\DNPI2\ASYNC\Examples\13 - Task Exceptions\obj\Debug\Wincubate.Module13.Slide13.pdb

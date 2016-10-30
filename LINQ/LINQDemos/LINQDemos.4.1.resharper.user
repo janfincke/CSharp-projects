@@ -1,0 +1,100 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8D496613-9C37-4704-854D-6B0A26847854/f:ObjectDumper.cs" caret="0" scrollPosition="0|0" />
+      <File id="AA8D983A-7CB1-43FA-820D-F03DDBB2472C/f:Program.cs" caret="785" scrollPosition="0|0" />
+      <File id="7ACC257A-B60C-4639-ADD3-F263048458E7/f:Program.cs" caret="0" scrollPosition="0|0" />
+      <File id="2979682D-9C94-40CB-9375-FE7079576629/f:Program.cs" caret="985" scrollPosition="0|0" />
+      <File id="A00849E5-01A6-499D-9367-6573F9D25AAE/f:Program.cs" caret="0" scrollPosition="0|0" />
+      <File id="F360741C-610A-406B-B315-6AB173F5C920/f:Program.cs" caret="0" scrollPosition="0|0" />
+      <File id="8D496613-9C37-4704-854D-6B0A26847854/f:Program.cs" caret="6316" scrollPosition="0|174" />
+      <File id="D0FEB095-00F2-4075-B8D8-5E33C5AA53FE/f:Program.cs" caret="133" scrollPosition="0|3" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2979682D-9C94-40CB-9375-FE7079576629/f:Program.cs" caret="175" scrollPosition="0|0" />
+      <File id="8D496613-9C37-4704-854D-6B0A26847854/f:Program.cs" caret="1614" scrollPosition="0|18" />
+      <File id="F360741C-610A-406B-B315-6AB173F5C920/f:Program.cs" caret="686" scrollPosition="0|0" />
+      <File id="F360741C-610A-406B-B315-6AB173F5C920/f:Program.cs" caret="916" scrollPosition="0|0" />
+      <File id="A00849E5-01A6-499D-9367-6573F9D25AAE/f:Program.cs" caret="544" scrollPosition="0|0" />
+      <File id="2979682D-9C94-40CB-9375-FE7079576629/f:Program.cs" caret="430" scrollPosition="0|0" />
+      <File id="2979682D-9C94-40CB-9375-FE7079576629/f:Program.cs" caret="1088" scrollPosition="0|9" />
+      <File id="2979682D-9C94-40CB-9375-FE7079576629/f:Program.cs" caret="959" scrollPosition="0|12" />
+      <File id="8D496613-9C37-4704-854D-6B0A26847854/f:Program.cs" caret="1711" scrollPosition="0|42" />
+      <File id="8D496613-9C37-4704-854D-6B0A26847854/f:Program.cs" caret="1843" scrollPosition="0|33" />
+      <File id="8D496613-9C37-4704-854D-6B0A26847854/f:Program.cs" caret="1245" scrollPosition="0|21" />
+      <File id="8D496613-9C37-4704-854D-6B0A26847854/f:Program.cs" caret="2307" scrollPosition="0|57" />
+      <File id="8D496613-9C37-4704-854D-6B0A26847854/f:Program.cs" caret="2640" scrollPosition="0|78" />
+      <File id="8D496613-9C37-4704-854D-6B0A26847854/f:Program.cs" caret="4321" scrollPosition="0|111" />
+      <File id="8D496613-9C37-4704-854D-6B0A26847854/f:Program.cs" caret="3964" scrollPosition="0|111" />
+      <File id="8D496613-9C37-4704-854D-6B0A26847854/f:Program.cs" caret="3368" scrollPosition="0|90" />
+      <File id="8D496613-9C37-4704-854D-6B0A26847854/f:Program.cs" caret="2936" scrollPosition="0|90" />
+      <File id="8D496613-9C37-4704-854D-6B0A26847854/f:Program.cs" caret="4346" scrollPosition="0|126" />
+      <File id="8D496613-9C37-4704-854D-6B0A26847854/f:Program.cs" caret="4593" scrollPosition="0|137" />
+      <File id="7ACC257A-B60C-4639-ADD3-F263048458E7/f:Program.cs" caret="565" scrollPosition="0|0" />
+      <File id="7ACC257A-B60C-4639-ADD3-F263048458E7/f:Program.cs" caret="832" scrollPosition="0|0" />
+      <File id="8D496613-9C37-4704-854D-6B0A26847854/f:Program.cs" caret="5814" scrollPosition="0|167" />
+      <File id="8D496613-9C37-4704-854D-6B0A26847854/f:Program.cs" caret="6061" scrollPosition="0|173" />
+      <File id="AA8D983A-7CB1-43FA-820D-F03DDBB2472C/f:Program.cs" caret="316" scrollPosition="0|6" />
+      <File id="AA8D983A-7CB1-43FA-820D-F03DDBB2472C/f:Program.cs" caret="785" scrollPosition="0|3" />
+      <File id="D0FEB095-00F2-4075-B8D8-5E33C5AA53FE/f:Program.cs" caret="642" scrollPosition="0|3" />
+      <File id="8D496613-9C37-4704-854D-6B0A26847854/f:Program.cs" caret="6542" scrollPosition="0|174" />
+      <File id="D0FEB095-00F2-4075-B8D8-5E33C5AA53FE/f:Program.cs" caret="1276" scrollPosition="0|7" />
+      <File id="D0FEB095-00F2-4075-B8D8-5E33C5AA53FE/f:Program.cs" caret="1276" scrollPosition="0|7" />
+      <File id="D0FEB095-00F2-4075-B8D8-5E33C5AA53FE/f:Program.cs" caret="1274" scrollPosition="0|8" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="cw" priority="0" />
+      <Item value="s" priority="0" />
+      <Item value="query" priority="0" />
+      <Item value="c" priority="3" />
+      <Item value="item" priority="0" />
+      <Item value="products" priority="1" />
+      <Item value="p" priority="0" />
+      <Item value="grouping" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="0" />
+      <Item value="Where" priority="0" />
+      <Item value="Min" priority="0" />
+      <Item value="GroupBy" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Average" priority="0" />
+      <Item value="Select" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Contains" priority="0" />
+      <Item value="StartsWith" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MiscLinq.Customer">
+      <Item value="Country" priority="1" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LINQ6.Product">
+      <Item value="Category" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

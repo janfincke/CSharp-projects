@@ -1,0 +1,71 @@
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\EX 08 INotiFyPropertyChanged.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\EX 08 INotiFyPropertyChanged.pdb
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\VIA.DataLibrary.dll
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\VIA.DataLibrary.pdb
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\MainWindow.baml
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\MainWindow.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\App.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged_MarkupCompile.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.g.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\VIA.Properties.Resources.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\EX 08 INotiFyPropertyChanged.exe
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\EX 08 INotiFyPropertyChanged.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\VIA.DataLibrary.dll
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\VIA.DataLibrary.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.csprojResolveAssemblyReference.cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\MainWindow.baml
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\MainWindow.g.cs
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\App.g.cs
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged_MarkupCompile.cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.g.resources
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\VIA.Properties.Resources.resources
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.csproj.GenerateResource.Cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.exe
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.exe
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\EX 08 INotiFyPropertyChanged.exe
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\EX 08 INotiFyPropertyChanged.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\VIA.DataLibrary.dll
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\VIA.DataLibrary.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.csprojResolveAssemblyReference.cache
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\MainWindow.baml
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\MainWindow.g.cs
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\App.g.cs
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged_MarkupCompile.cache
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.g.resources
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\VIA.Properties.Resources.resources
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.csproj.GenerateResource.Cache
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\EX 08 INotiFyPropertyChanged.exe
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\EX 08 INotiFyPropertyChanged.pdb
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\VIA.DataLibrary.dll
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\VIA.DataLibrary.pdb
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.csprojResolveAssemblyReference.cache
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\MainWindow.baml
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\MainWindow.g.cs
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\App.g.cs
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged_MarkupCompile.cache
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.g.resources
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\VIA.Properties.Resources.resources
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.csproj.GenerateResource.Cache
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.exe
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.pdb
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.exe
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.pdb
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\EX 08 INotiFyPropertyChanged.exe
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\EX 08 INotiFyPropertyChanged.pdb
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\VIA.DataLibrary.dll
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\EX 08 INotiFyPropertyChanged\bin\Debug\VIA.DataLibrary.pdb
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.csprojResolveAssemblyReference.cache
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\MainWindow.baml
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\App.g.cs
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged_MarkupCompile.cache
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.g.resources
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\VIA.Properties.Resources.resources
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\EX 08 INotiFyPropertyChanged\obj\x86\Debug\EX 08 INotiFyPropertyChanged.csproj.GenerateResource.Cache

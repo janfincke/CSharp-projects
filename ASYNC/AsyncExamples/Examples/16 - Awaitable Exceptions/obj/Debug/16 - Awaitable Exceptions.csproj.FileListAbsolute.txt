@@ -1,0 +1,18 @@
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\AsyncProgramming(JGH)\Module 13 - Asynchronous Programming\Examples\16 - Awaitable Exceptions\bin\Debug\Wincubate.Module13.Slide16.exe.config
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\AsyncProgramming(JGH)\Module 13 - Asynchronous Programming\Examples\16 - Awaitable Exceptions\obj\Debug\MainWindow.baml
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\AsyncProgramming(JGH)\Module 13 - Asynchronous Programming\Examples\16 - Awaitable Exceptions\obj\Debug\MainWindow.g.cs
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\AsyncProgramming(JGH)\Module 13 - Asynchronous Programming\Examples\16 - Awaitable Exceptions\obj\Debug\App.g.cs
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\AsyncProgramming(JGH)\Module 13 - Asynchronous Programming\Examples\16 - Awaitable Exceptions\obj\Debug\Wincubate.Module13.Slide16_MarkupCompile.cache
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\AsyncProgramming(JGH)\Module 13 - Asynchronous Programming\Examples\16 - Awaitable Exceptions\obj\Debug\Wincubate.Module13.Slide16.g.resources
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\AsyncProgramming(JGH)\Module 13 - Asynchronous Programming\Examples\16 - Awaitable Exceptions\obj\Debug\Wincubate.Module13.Slide16.Properties.Resources.resources
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\AsyncProgramming(JGH)\Module 13 - Asynchronous Programming\Examples\16 - Awaitable Exceptions\obj\Debug\16 - Awaitable Exceptions.csproj.GenerateResource.Cache
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\AsyncProgramming(JGH)\Module 13 - Asynchronous Programming\Examples\16 - Awaitable Exceptions\bin\Debug\Wincubate.Module13.Slide16.exe
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\AsyncProgramming(JGH)\Module 13 - Asynchronous Programming\Examples\16 - Awaitable Exceptions\bin\Debug\Wincubate.Module13.Slide16.pdb
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\AsyncProgramming(JGH)\Module 13 - Asynchronous Programming\Examples\16 - Awaitable Exceptions\obj\Debug\Wincubate.Module13.Slide16.exe
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\AsyncProgramming(JGH)\Module 13 - Asynchronous Programming\Examples\16 - Awaitable Exceptions\obj\Debug\Wincubate.Module13.Slide16.pdb
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\ASYNC\Examples\16 - Awaitable Exceptions\bin\Debug\Wincubate.Module13.Slide16.exe.config
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\ASYNC\Examples\16 - Awaitable Exceptions\obj\Debug\Wincubate.Module13.Slide16.exe
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\ASYNC\Examples\16 - Awaitable Exceptions\obj\Debug\Wincubate.Module13.Slide16.pdb
+C:\Users\kf\OneDrive\VIA\DNPI2\ASYNC\Examples\16 - Awaitable Exceptions\bin\Debug\Wincubate.Module13.Slide16.exe.config
+C:\Users\kf\OneDrive\VIA\DNPI2\ASYNC\Examples\16 - Awaitable Exceptions\obj\Debug\Wincubate.Module13.Slide16.exe
+C:\Users\kf\OneDrive\VIA\DNPI2\ASYNC\Examples\16 - Awaitable Exceptions\obj\Debug\Wincubate.Module13.Slide16.pdb

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LINQDemos">
+</Property><Property Name="Solution File" Value="C:\Uddannelse\DNP2\Presentations\#4 LINQ\Code\LINQDemos\LINQDemos.sln">
+</Property><Property Name="Date" Value="7. september 2010">
+</Property><Property Name="Time" Value="22:47">
+</Property></Properties><Event ErrorLevel="0" Project="LINQ1" Source="LINQ1\LINQ1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LINQ1" Source="LINQ1\LINQ1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LINQ2" Source="LINQ2\LINQ2.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LINQ2" Source="LINQ2\LINQ2.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LINQ3" Source="LINQ3\LINQ3.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LINQ3" Source="LINQ3\LINQ3.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MiscLinq" Source="MiscLinq\MiscLinq.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MiscLinq" Source="MiscLinq\MiscLinq.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LINQ4" Source="LINQ4\LINQ4.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LINQ4" Source="LINQ4\LINQ4.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LINQ5" Source="LINQ5\LINQ5.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LINQ5" Source="LINQ5\LINQ5.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LINQ6" Source="LINQ6\LINQ6.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LINQ6" Source="LINQ6\LINQ6.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LINQDemos.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LINQDemos.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LINQ1" Source="LINQ1\LINQ1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LINQ2" Source="LINQ2\LINQ2.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LINQ3" Source="LINQ3\LINQ3.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MiscLinq" Source="MiscLinq\MiscLinq.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LINQ4" Source="LINQ4\LINQ4.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LINQ5" Source="LINQ5\LINQ5.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LINQ6" Source="LINQ6\LINQ6.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

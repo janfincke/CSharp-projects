@@ -1,0 +1,49 @@
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\bin\Debug\EX 04 Sharing a style.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\bin\Debug\EX 04 Sharing a style.pdb
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\MainWindow.baml
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\MainWindow.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\App.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style_MarkupCompile.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style.g.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX_04_Sharing_a_style.Properties.Resources.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style.exe
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\bin\Debug\EX 04 Sharing a style.exe
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\bin\Debug\EX 04 Sharing a style.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style.csprojResolveAssemblyReference.cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\MainWindow.baml
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\MainWindow.g.cs
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\App.g.cs
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style_MarkupCompile.cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style.g.resources
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX_04_Sharing_a_style.Properties.Resources.resources
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style.csproj.GenerateResource.Cache
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style.exe
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\bin\Debug\EX 04 Sharing a style.exe
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\bin\Debug\EX 04 Sharing a style.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style.csprojResolveAssemblyReference.cache
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\MainWindow.baml
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\MainWindow.g.cs
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\App.g.cs
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style_MarkupCompile.cache
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style.g.resources
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX_04_Sharing_a_style.Properties.Resources.resources
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style.csproj.GenerateResource.Cache
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style.exe
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style.pdb
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\bin\Debug\EX 04 Sharing a style.exe
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\bin\Debug\EX 04 Sharing a style.pdb
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style.csprojResolveAssemblyReference.cache
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\MainWindow.baml
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\MainWindow.g.cs
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\App.g.cs
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style_MarkupCompile.cache
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style.g.resources
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX_04_Sharing_a_style.Properties.Resources.resources
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 04 Sharing a style\obj\x86\Debug\EX 04 Sharing a style.csproj.GenerateResource.Cache

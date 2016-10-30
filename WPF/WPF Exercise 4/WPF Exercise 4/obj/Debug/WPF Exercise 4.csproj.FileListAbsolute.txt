@@ -1,0 +1,14 @@
+c:\users\jan\documents\visual studio 2015\Projects\WPF Exercise 4\WPF Exercise 4\bin\Debug\WPF Exercise 4.exe.config
+c:\users\jan\documents\visual studio 2015\Projects\WPF Exercise 4\WPF Exercise 4\bin\Debug\WPF Exercise 4.exe
+c:\users\jan\documents\visual studio 2015\Projects\WPF Exercise 4\WPF Exercise 4\bin\Debug\WPF Exercise 4.pdb
+c:\users\jan\documents\visual studio 2015\Projects\WPF Exercise 4\WPF Exercise 4\obj\Debug\WPF Exercise 4.csprojResolveAssemblyReference.cache
+c:\users\jan\documents\visual studio 2015\Projects\WPF Exercise 4\WPF Exercise 4\obj\Debug\MainWindow.g.cs
+c:\users\jan\documents\visual studio 2015\Projects\WPF Exercise 4\WPF Exercise 4\obj\Debug\App.g.cs
+c:\users\jan\documents\visual studio 2015\Projects\WPF Exercise 4\WPF Exercise 4\obj\Debug\WPF Exercise 4_MarkupCompile.cache
+c:\users\jan\documents\visual studio 2015\Projects\WPF Exercise 4\WPF Exercise 4\obj\Debug\WPF Exercise 4_MarkupCompile.lref
+c:\users\jan\documents\visual studio 2015\Projects\WPF Exercise 4\WPF Exercise 4\obj\Debug\MainWindow.baml
+c:\users\jan\documents\visual studio 2015\Projects\WPF Exercise 4\WPF Exercise 4\obj\Debug\WPF Exercise 4.g.resources
+c:\users\jan\documents\visual studio 2015\Projects\WPF Exercise 4\WPF Exercise 4\obj\Debug\WPF_Exercise_4.Properties.Resources.resources
+c:\users\jan\documents\visual studio 2015\Projects\WPF Exercise 4\WPF Exercise 4\obj\Debug\WPF Exercise 4.csproj.GenerateResource.Cache
+c:\users\jan\documents\visual studio 2015\Projects\WPF Exercise 4\WPF Exercise 4\obj\Debug\WPF Exercise 4.exe
+c:\users\jan\documents\visual studio 2015\Projects\WPF Exercise 4\WPF Exercise 4\obj\Debug\WPF Exercise 4.pdb

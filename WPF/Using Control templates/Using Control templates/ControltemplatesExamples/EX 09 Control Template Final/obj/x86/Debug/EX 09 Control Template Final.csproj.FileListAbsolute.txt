@@ -1,0 +1,61 @@
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\bin\Debug\EX 09 Control Template Final.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\bin\Debug\EX 09 Control Template Final.pdb
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\MainWindow.baml
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\MainWindow.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\App.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final_MarkupCompile.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.g.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX_09_Control_Template_Final.Properties.Resources.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\bin\Debug\EX 09 Control Template Final.exe
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\bin\Debug\EX 09 Control Template Final.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.csprojResolveAssemblyReference.cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\MainWindow.baml
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\MainWindow.g.cs
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\App.g.cs
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final_MarkupCompile.cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.g.resources
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX_09_Control_Template_Final.Properties.Resources.resources
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.csproj.GenerateResource.Cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.exe
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.exe
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\bin\Debug\EX 09 Control Template Final.exe
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\bin\Debug\EX 09 Control Template Final.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.csprojResolveAssemblyReference.cache
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\MainWindow.baml
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\MainWindow.g.cs
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\App.g.cs
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final_MarkupCompile.cache
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.g.resources
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX_09_Control_Template_Final.Properties.Resources.resources
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.csproj.GenerateResource.Cache
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.exe
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.pdb
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\bin\Debug\EX 09 Control Template Final.exe
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\bin\Debug\EX 09 Control Template Final.pdb
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.csprojResolveAssemblyReference.cache
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\MainWindow.baml
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\MainWindow.g.cs
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\App.g.cs
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final_MarkupCompile.cache
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.g.resources
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX_09_Control_Template_Final.Properties.Resources.resources
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.csproj.GenerateResource.Cache
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.exe
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.pdb
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\bin\Debug\EX 09 Control Template Final.exe
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\bin\Debug\EX 09 Control Template Final.pdb
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.csprojResolveAssemblyReference.cache
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\MainWindow.baml
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\MainWindow.g.cs
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\App.g.cs
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final_MarkupCompile.cache
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.g.resources
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX_09_Control_Template_Final.Properties.Resources.resources
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 09 Control Template Final\obj\x86\Debug\EX 09 Control Template Final.csproj.GenerateResource.Cache

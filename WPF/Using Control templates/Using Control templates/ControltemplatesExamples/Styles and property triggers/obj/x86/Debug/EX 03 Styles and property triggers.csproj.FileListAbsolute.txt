@@ -1,0 +1,49 @@
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\bin\Debug\Styles and property triggers.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\bin\Debug\Styles and property triggers.pdb
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\MainWindow.baml
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\MainWindow.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\App.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles and property triggers_MarkupCompile.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles and property triggers.g.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles_and_property_triggers.Properties.Resources.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles and property triggers.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles and property triggers.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\bin\Debug\Styles and property triggers.exe
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\bin\Debug\Styles and property triggers.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\EX 03 Styles and property triggers.csprojResolveAssemblyReference.cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\MainWindow.baml
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\MainWindow.g.cs
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\App.g.cs
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles and property triggers_MarkupCompile.cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles and property triggers.g.resources
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles_and_property_triggers.Properties.Resources.resources
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\EX 03 Styles and property triggers.csproj.GenerateResource.Cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles and property triggers.exe
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles and property triggers.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles and property triggers.exe
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles and property triggers.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\bin\Debug\Styles and property triggers.exe
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\bin\Debug\Styles and property triggers.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\EX 03 Styles and property triggers.csprojResolveAssemblyReference.cache
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\MainWindow.baml
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\MainWindow.g.cs
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\App.g.cs
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles and property triggers_MarkupCompile.cache
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles and property triggers.g.resources
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles_and_property_triggers.Properties.Resources.resources
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\EX 03 Styles and property triggers.csproj.GenerateResource.Cache
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles and property triggers.exe
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles and property triggers.pdb
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\bin\Debug\Styles and property triggers.exe
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\bin\Debug\Styles and property triggers.pdb
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\EX 03 Styles and property triggers.csprojResolveAssemblyReference.cache
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\MainWindow.baml
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\MainWindow.g.cs
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\App.g.cs
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles and property triggers_MarkupCompile.cache
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles and property triggers.g.resources
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\Styles_and_property_triggers.Properties.Resources.resources
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\Styles and property triggers\obj\x86\Debug\EX 03 Styles and property triggers.csproj.GenerateResource.Cache

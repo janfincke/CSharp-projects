@@ -1,0 +1,48 @@
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\bin\Debug\EX 01 - The Binding Class.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\bin\Debug\EX 01 - The Binding Class.pdb
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\MainWindow.baml
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\MainWindow.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\App.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class_MarkupCompile.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class.g.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\VIA.Properties.Resources.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class.exe
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\bin\Debug\EX 01 - The Binding Class.exe
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\bin\Debug\EX 01 - The Binding Class.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\MainWindow.baml
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\MainWindow.g.cs
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\App.g.cs
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class_MarkupCompile.cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class.g.resources
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\VIA.Properties.Resources.resources
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class.csproj.GenerateResource.Cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class.csprojResolveAssemblyReference.cache
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class.exe
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\bin\Debug\EX 01 - The Binding Class.exe
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\bin\Debug\EX 01 - The Binding Class.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class.csprojResolveAssemblyReference.cache
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\MainWindow.baml
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\MainWindow.g.cs
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\App.g.cs
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class_MarkupCompile.cache
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class.g.resources
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\VIA.Properties.Resources.resources
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class.csproj.GenerateResource.Cache
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class.exe
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class.pdb
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\bin\Debug\EX 01 - The Binding Class.exe
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\bin\Debug\EX 01 - The Binding Class.pdb
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\MainWindow.baml
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\MainWindow.g.cs
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\App.g.cs
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class_MarkupCompile.cache
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class.g.resources
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\VIA.Properties.Resources.resources
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 01 - The Binding Class\obj\x86\Debug\EX 01 - The Binding Class.csproj.GenerateResource.Cache

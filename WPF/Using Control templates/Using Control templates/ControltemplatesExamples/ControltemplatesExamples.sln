@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX 01 No Styles", "..\No Styles\EX 01 No Styles.csproj", "{629A8BE3-6FC6-482D-80A6-F3F2ABA76A40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX 02 With Styles", "With Styles\EX 02 With Styles.csproj", "{03BA28FB-B075-452B-97AA-AD1CA17FB56D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX 03 Styles and property triggers", "Styles and property triggers\EX 03 Styles and property triggers.csproj", "{A15B8048-C9F0-41E7-86A5-26BFF1F0F40A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX 04 Sharing a style", "EX 04 Sharing a style\EX 04 Sharing a style.csproj", "{22459686-B1EB-4C4A-A281-1BF13FA120C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX 05 Style with datatrigger", "EX 05 Style with datatrigger\EX 05 Style with datatrigger.csproj", "{FE70EA36-9042-49CE-9721-01CF3E38F52E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX 06 Simple Control Template", "EX 06 Simple Control Template\EX 06 Simple Control Template.csproj", "{7603C766-5B03-4FCF-9665-D65BC0665F8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX 07 Control Template with trigger", "EX 07 COntrol Template with trigger\EX 07 Control Template with trigger.csproj", "{65FC5CA8-E274-4AB0-819C-2F3E27106F7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX 08 Control Template with contents", "EX 08 Control Template with contents\EX 08 Control Template with contents.csproj", "{9B36EC9E-CE35-49EB-AC0A-B6CA3AD466F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX 09 Control Template Final", "EX 09 Control Template Final\EX 09 Control Template Final.csproj", "{32BA1D16-59F0-445E-9481-EB82132BC81C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{629A8BE3-6FC6-482D-80A6-F3F2ABA76A40}.Debug|x86.ActiveCfg = Debug|x86
+		{629A8BE3-6FC6-482D-80A6-F3F2ABA76A40}.Debug|x86.Build.0 = Debug|x86
+		{629A8BE3-6FC6-482D-80A6-F3F2ABA76A40}.Release|x86.ActiveCfg = Release|x86
+		{629A8BE3-6FC6-482D-80A6-F3F2ABA76A40}.Release|x86.Build.0 = Release|x86
+		{03BA28FB-B075-452B-97AA-AD1CA17FB56D}.Debug|x86.ActiveCfg = Debug|x86
+		{03BA28FB-B075-452B-97AA-AD1CA17FB56D}.Debug|x86.Build.0 = Debug|x86
+		{03BA28FB-B075-452B-97AA-AD1CA17FB56D}.Release|x86.ActiveCfg = Release|x86
+		{03BA28FB-B075-452B-97AA-AD1CA17FB56D}.Release|x86.Build.0 = Release|x86
+		{A15B8048-C9F0-41E7-86A5-26BFF1F0F40A}.Debug|x86.ActiveCfg = Debug|x86
+		{A15B8048-C9F0-41E7-86A5-26BFF1F0F40A}.Debug|x86.Build.0 = Debug|x86
+		{A15B8048-C9F0-41E7-86A5-26BFF1F0F40A}.Release|x86.ActiveCfg = Release|x86
+		{A15B8048-C9F0-41E7-86A5-26BFF1F0F40A}.Release|x86.Build.0 = Release|x86
+		{22459686-B1EB-4C4A-A281-1BF13FA120C9}.Debug|x86.ActiveCfg = Debug|x86
+		{22459686-B1EB-4C4A-A281-1BF13FA120C9}.Debug|x86.Build.0 = Debug|x86
+		{22459686-B1EB-4C4A-A281-1BF13FA120C9}.Release|x86.ActiveCfg = Release|x86
+		{22459686-B1EB-4C4A-A281-1BF13FA120C9}.Release|x86.Build.0 = Release|x86
+		{FE70EA36-9042-49CE-9721-01CF3E38F52E}.Debug|x86.ActiveCfg = Debug|x86
+		{FE70EA36-9042-49CE-9721-01CF3E38F52E}.Debug|x86.Build.0 = Debug|x86
+		{FE70EA36-9042-49CE-9721-01CF3E38F52E}.Release|x86.ActiveCfg = Release|x86
+		{FE70EA36-9042-49CE-9721-01CF3E38F52E}.Release|x86.Build.0 = Release|x86
+		{7603C766-5B03-4FCF-9665-D65BC0665F8D}.Debug|x86.ActiveCfg = Debug|x86
+		{7603C766-5B03-4FCF-9665-D65BC0665F8D}.Debug|x86.Build.0 = Debug|x86
+		{7603C766-5B03-4FCF-9665-D65BC0665F8D}.Release|x86.ActiveCfg = Release|x86
+		{7603C766-5B03-4FCF-9665-D65BC0665F8D}.Release|x86.Build.0 = Release|x86
+		{65FC5CA8-E274-4AB0-819C-2F3E27106F7A}.Debug|x86.ActiveCfg = Debug|x86
+		{65FC5CA8-E274-4AB0-819C-2F3E27106F7A}.Debug|x86.Build.0 = Debug|x86
+		{65FC5CA8-E274-4AB0-819C-2F3E27106F7A}.Release|x86.ActiveCfg = Release|x86
+		{65FC5CA8-E274-4AB0-819C-2F3E27106F7A}.Release|x86.Build.0 = Release|x86
+		{9B36EC9E-CE35-49EB-AC0A-B6CA3AD466F5}.Debug|x86.ActiveCfg = Debug|x86
+		{9B36EC9E-CE35-49EB-AC0A-B6CA3AD466F5}.Debug|x86.Build.0 = Debug|x86
+		{9B36EC9E-CE35-49EB-AC0A-B6CA3AD466F5}.Release|x86.ActiveCfg = Release|x86
+		{9B36EC9E-CE35-49EB-AC0A-B6CA3AD466F5}.Release|x86.Build.0 = Release|x86
+		{32BA1D16-59F0-445E-9481-EB82132BC81C}.Debug|x86.ActiveCfg = Debug|x86
+		{32BA1D16-59F0-445E-9481-EB82132BC81C}.Debug|x86.Build.0 = Debug|x86
+		{32BA1D16-59F0-445E-9481-EB82132BC81C}.Release|x86.ActiveCfg = Release|x86
+		{32BA1D16-59F0-445E-9481-EB82132BC81C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

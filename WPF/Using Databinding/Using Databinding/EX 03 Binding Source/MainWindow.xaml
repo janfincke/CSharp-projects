@@ -1,0 +1,19 @@
+﻿<Window x:Class="VIA.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:clr="clr-namespace:VIA.DataLibrary;assembly=VIA.DataLibrary"
+        Title="EX03 Binding to Objects" Height="350" Width="525">
+    <Window.Resources>
+        <clr:Student x:Key="p" />
+        <clr:Student x:Key="p1" />
+
+    </Window.Resources>
+    
+    <StackPanel>
+        <Label Content="{Binding Source={StaticResource p}, Path=LastName}"></Label>
+        <Label Content="{Binding Source={StaticResource p}, Path=FirstName}"></Label>
+        <Image Source="{Binding Source={StaticResource p},  Path=ImageUri}" Height="136" Width="131"></Image>
+        <Label Content="{Binding Source={StaticResource p1}, Path=FirstName}"></Label>
+    </StackPanel>
+</Window> 
+   

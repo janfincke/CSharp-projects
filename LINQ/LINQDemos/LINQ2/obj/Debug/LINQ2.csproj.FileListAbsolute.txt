@@ -1,0 +1,31 @@
+C:\Uddannelse\VIA\ACP\Presentations\#3 C# programming\Code\LINQDemos\LINQ2\bin\Debug\LINQ2.exe
+C:\Uddannelse\VIA\ACP\Presentations\#3 C# programming\Code\LINQDemos\LINQ2\bin\Debug\LINQ2.pdb
+C:\Uddannelse\VIA\ACP\Presentations\#3 C# programming\Code\LINQDemos\LINQ2\obj\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\VIA\ACP\Presentations\#3 C# programming\Code\LINQDemos\LINQ2\obj\Debug\LINQ2.exe
+C:\Uddannelse\VIA\ACP\Presentations\#3 C# programming\Code\LINQDemos\LINQ2\obj\Debug\LINQ2.pdb
+C:\Uddannelse\VIA\ACP\Presentations\#4 LINQ\Code\LINQDemos\LINQ2\obj\Debug\LINQ2.exe
+C:\Uddannelse\VIA\ACP\Presentations\#4 LINQ\Code\LINQDemos\LINQ2\obj\Debug\LINQ2.pdb
+C:\Uddannelse\VIA\ACP\Presentations\#4 LINQ\Code\LINQDemos\LINQ2\bin\Debug\LINQ2.exe
+C:\Uddannelse\VIA\ACP\Presentations\#4 LINQ\Code\LINQDemos\LINQ2\bin\Debug\LINQ2.pdb
+C:\Uddannelse\VIA\ACP\Presentations\#4 LINQ\Code\LINQDemos\LINQ2\obj\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\DNP2\Presentations\#4 LINQ\Code\LINQDemos\LINQ2\obj\Debug\LINQ2.exe
+C:\Uddannelse\DNP2\Presentations\#4 LINQ\Code\LINQDemos\LINQ2\obj\Debug\LINQ2.pdb
+C:\Uddannelse\DNP2\Presentations\#4 LINQ\Code\LINQDemos\LINQ2\bin\Debug\LINQ2.exe
+C:\Uddannelse\DNP2\Presentations\#4 LINQ\Code\LINQDemos\LINQ2\bin\Debug\LINQ2.pdb
+C:\Uddannelse\DNP2\Presentations\#4 LINQ\Code\LINQDemos\LINQ2\obj\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\3 LINQ\Code\LINQDemos\LINQ2\bin\Debug\LINQ2.exe
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\3 LINQ\Code\LINQDemos\LINQ2\bin\Debug\LINQ2.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\3 LINQ\Code\LINQDemos\LINQ2\obj\Debug\LINQ2.csprojResolveAssemblyReference.cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\3 LINQ\Code\LINQDemos\LINQ2\obj\Debug\LINQ2.exe
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\3 LINQ\Code\LINQDemos\LINQ2\obj\Debug\LINQ2.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\3 LINQ\Code\LINQDemos\LINQ2\obj\Debug\LINQ2.exe
+C:\VIA\DNP2 Autumn 2013\Presentations\3 LINQ\Code\LINQDemos\LINQ2\obj\Debug\LINQ2.pdb
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\3 LINQ\Code\LINQDemos\LINQ2\obj\Debug\LINQ2.exe
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\3 LINQ\Code\LINQDemos\LINQ2\obj\Debug\LINQ2.pdb
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\3 LINQ\Code\LINQDemos\LINQ2\obj\Debug\LINQ2.exe
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\3 LINQ\Code\LINQDemos\LINQ2\obj\Debug\LINQ2.pdb
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\3 LINQ\Code\LINQDemos\LINQ2\bin\Debug\LINQ2.exe
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\3 LINQ\Code\LINQDemos\LINQ2\bin\Debug\LINQ2.pdb
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\3 LINQ\Code\LINQDemos\LINQ2\obj\Debug\LINQ2.csprojResolveAssemblyReference.cache
+C:\Users\Jan\Documents\projects\cs\LINQDemos\LINQ2\obj\Debug\LINQ2.exe
+C:\Users\Jan\Documents\projects\cs\LINQDemos\LINQ2\obj\Debug\LINQ2.pdb

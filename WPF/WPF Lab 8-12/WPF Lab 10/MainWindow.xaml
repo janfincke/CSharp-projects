@@ -1,0 +1,30 @@
+﻿<Window x:Class="WPF_Lab_10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Lab_10"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <ControlTemplate x:Key="ButtonTemplate" TargetType="Button">
+            <Grid>
+                <Ellipse Name="Ellipse1" Stroke="{TemplateBinding BorderBrush}" StrokeThickness="{TemplateBinding BorderThickness}">
+                    <Ellipse.Fill>
+                        <RadialGradientBrush GradientOrigin=".5, .5">
+                            <GradientStop Color="Red" Offset="0" />
+                            <GradientStop Color="Orange" Offset=".25" />
+                            <GradientStop Color="Blue" Offset=".5" />
+                            <GradientStop Color="Yellow" Offset=".75" />
+                            <GradientStop Color="Green" Offset="1" />
+                        </RadialGradientBrush>
+                    </Ellipse.Fill>
+                </Ellipse>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Grid>
+        </ControlTemplate>
+    </Window.Resources>
+    <Grid>
+        
+    </Grid>
+</Window>

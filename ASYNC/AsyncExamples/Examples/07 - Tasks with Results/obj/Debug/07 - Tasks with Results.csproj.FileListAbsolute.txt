@@ -1,0 +1,16 @@
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\AsyncProgramming(JGH)\Module 13 - Asynchronous Programming\Examples\07 - Tasks with Results\bin\Debug\Wincubate.Module13.Slide07.exe
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\AsyncProgramming(JGH)\Module 13 - Asynchronous Programming\Examples\07 - Tasks with Results\bin\Debug\Wincubate.Module13.Slide07.pdb
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\AsyncProgramming(JGH)\Module 13 - Asynchronous Programming\Examples\07 - Tasks with Results\obj\Debug\Wincubate.Module13.Slide07.exe
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\AsyncProgramming(JGH)\Module 13 - Asynchronous Programming\Examples\07 - Tasks with Results\obj\Debug\Wincubate.Module13.Slide07.pdb
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\ASYNC\Examples\07 - Tasks with Results\obj\Debug\Wincubate.Module13.Slide07.exe
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\ASYNC\Examples\07 - Tasks with Results\obj\Debug\Wincubate.Module13.Slide07.pdb
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\ASYNC\Examples\07 - Tasks with Results\bin\Debug\Wincubate.Module13.Slide07.exe
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\ASYNC\Examples\07 - Tasks with Results\bin\Debug\Wincubate.Module13.Slide07.pdb
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\ASYNC\Examples\07 - Tasks with Results\obj\Debug\07 - Tasks with Results.csprojResolveAssemblyReference.cache
+C:\Users\kf\OneDrive\VIA\DNPI2\ASYNC\Examples\07 - Tasks with Results\obj\Debug\Wincubate.Module13.Slide07.exe
+C:\Users\kf\OneDrive\VIA\DNPI2\ASYNC\Examples\07 - Tasks with Results\obj\Debug\Wincubate.Module13.Slide07.pdb
+C:\Users\kf\OneDrive\VIA\DNPI2\ASYNC\Examples\07 - Tasks with Results\bin\Debug\Wincubate.Module13.Slide07.exe
+C:\Users\kf\OneDrive\VIA\DNPI2\ASYNC\Examples\07 - Tasks with Results\bin\Debug\Wincubate.Module13.Slide07.pdb
+C:\Users\kf\OneDrive\VIA\DNPI2\ASYNC\Examples\07 - Tasks with Results\obj\Debug\07 - Tasks with Results.csprojResolveAssemblyReference.cache
+C:\Users\Jan\Documents\projects\cs\AsyncExamples\Examples\07 - Tasks with Results\obj\Debug\Wincubate.Module13.Slide07.exe
+C:\Users\Jan\Documents\projects\cs\AsyncExamples\Examples\07 - Tasks with Results\obj\Debug\Wincubate.Module13.Slide07.pdb

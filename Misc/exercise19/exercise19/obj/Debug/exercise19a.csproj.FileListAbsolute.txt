@@ -1,0 +1,3 @@
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\exercise19\exercise19\bin\Debug\exercise19.exe.config
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\exercise19\exercise19\obj\Debug\exercise19.exe
+C:\Users\Jan\Documents\Visual Studio 2015\Projects\exercise19\exercise19\obj\Debug\exercise19.pdb

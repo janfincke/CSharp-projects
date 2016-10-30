@@ -1,0 +1,12 @@
+c:\users\jan\documents\visual studio 2015\Projects\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+c:\users\jan\documents\visual studio 2015\Projects\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+c:\users\jan\documents\visual studio 2015\Projects\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+c:\users\jan\documents\visual studio 2015\Projects\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csprojResolveAssemblyReference.cache
+c:\users\jan\documents\visual studio 2015\Projects\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+c:\users\jan\documents\visual studio 2015\Projects\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Users\Jan\Documents\projects\cs\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\Jan\Documents\projects\cs\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\Jan\Documents\projects\cs\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Users\Jan\Documents\projects\cs\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\Jan\Documents\projects\cs\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\Jan\Documents\projects\cs\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csprojResolveAssemblyReference.cache

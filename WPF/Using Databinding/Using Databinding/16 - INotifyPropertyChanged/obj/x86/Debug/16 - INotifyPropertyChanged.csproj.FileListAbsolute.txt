@@ -1,0 +1,15 @@
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\16 - INotifyPropertyChanged\bin\Debug\Wincubate.Module09.Slide16.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\16 - INotifyPropertyChanged\bin\Debug\Wincubate.Module09.Slide16.pdb
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\16 - INotifyPropertyChanged\bin\Debug\Wincubate.Module09.Data.dll
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\16 - INotifyPropertyChanged\bin\Debug\Wincubate.Module09.Data.pdb
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\16 - INotifyPropertyChanged\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\16 - INotifyPropertyChanged\obj\x86\Debug\MainWindow.baml
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\16 - INotifyPropertyChanged\obj\x86\Debug\MainWindow.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\16 - INotifyPropertyChanged\obj\x86\Debug\App.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\16 - INotifyPropertyChanged\obj\x86\Debug\Wincubate.Module09.Slide16_MarkupCompile.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\16 - INotifyPropertyChanged\obj\x86\Debug\Wincubate.Module09.Slide16.g.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\16 - INotifyPropertyChanged\obj\x86\Debug\Wincubate.Module09.Slide16.Properties.Resources.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\16 - INotifyPropertyChanged\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\16 - INotifyPropertyChanged\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\16 - INotifyPropertyChanged\obj\x86\Debug\Wincubate.Module09.Slide16.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\16 - INotifyPropertyChanged\obj\x86\Debug\Wincubate.Module09.Slide16.pdb

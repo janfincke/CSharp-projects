@@ -1,0 +1,27 @@
+﻿<Window x:Class="VIA.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:clr1="clr-namespace:VIA"
+        xmlns:clr2="clr-namespace:VIA.DataLibrary;assembly=VIA.DataLibrary"
+        Title="Value Converters" Height="300" Width="300">
+    <Window.Resources>
+        <clr1:StudentNameBrushConverter x:Key="pncConverter" />
+        <clr2:Student x:Key="student" />
+    </Window.Resources>
+    <DockPanel DataContext="{StaticResource student}"
+               Background="{Binding Path=FullName, Converter={StaticResource pncConverter}, ConverterParameter=12}">
+        <DockPanel.RenderTransform>
+            <RotateTransform Angle="-7" />
+        </DockPanel.RenderTransform>
+        <Image DockPanel.Dock="Left"
+                Source="{Binding Path=ImageUri}"
+                Width="100" Height="100"
+                Stretch="UniformToFill"
+                Margin="10"></Image>
+        <StackPanel Orientation="Vertical"
+                    VerticalAlignment="Center">
+            <Label FontWeight="Bold" Content="{Binding Path=FullName}" />
+            <Label Content="{Binding Path=Company}" />
+        </StackPanel>
+    </DockPanel>
+</Window>

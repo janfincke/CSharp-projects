@@ -1,0 +1,1 @@
+c:\users\jan\documents\visual studio 2015\Projects\MvvmLight1\MvvmLight1\bin\Debug\MvvmLight1.exe.config

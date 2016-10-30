@@ -1,0 +1,6 @@
+c:\users\jan\documents\visual studio 2015\Projects\LINQ Overview\LINQ Overview\bin\Debug\LINQ Overview.exe.config
+c:\users\jan\documents\visual studio 2015\Projects\LINQ Overview\LINQ Overview\bin\Debug\LINQ Overview.exe
+c:\users\jan\documents\visual studio 2015\Projects\LINQ Overview\LINQ Overview\bin\Debug\LINQ Overview.pdb
+c:\users\jan\documents\visual studio 2015\Projects\LINQ Overview\LINQ Overview\obj\Debug\LINQ Overview.csprojResolveAssemblyReference.cache
+c:\users\jan\documents\visual studio 2015\Projects\LINQ Overview\LINQ Overview\obj\Debug\LINQ Overview.exe
+c:\users\jan\documents\visual studio 2015\Projects\LINQ Overview\LINQ Overview\obj\Debug\LINQ Overview.pdb

@@ -1,0 +1,54 @@
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 06 IValueConverter\bin\Debug\EX 06 IValueConverter.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 06 IValueConverter\bin\Debug\EX 06 IValueConverter.pdb
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\MainWindow.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\App.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter_MarkupCompile.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter_MarkupCompile.lref
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\MainWindow.baml
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter.g.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\VIA.Properties.Resources.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\bin\Debug\EX 06 IValueConverter.exe
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\bin\Debug\EX 06 IValueConverter.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\MainWindow.g.cs
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\App.g.cs
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter_MarkupCompile.cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter_MarkupCompile.lref
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\MainWindow.baml
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter.g.resources
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\VIA.Properties.Resources.resources
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter.csproj.GenerateResource.Cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter.exe
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter.exe
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\bin\Debug\EX 06 IValueConverter.exe
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\bin\Debug\EX 06 IValueConverter.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\MainWindow.g.cs
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\App.g.cs
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter_MarkupCompile.cache
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter_MarkupCompile.lref
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\MainWindow.baml
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter.g.resources
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\VIA.Properties.Resources.resources
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter.csproj.GenerateResource.Cache
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter.exe
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter.pdb
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\bin\Debug\EX 06 IValueConverter.exe
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\bin\Debug\EX 06 IValueConverter.pdb
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\MainWindow.g.cs
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\App.g.cs
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter_MarkupCompile.cache
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter_MarkupCompile.lref
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\MainWindow.baml
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter.g.resources
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\VIA.Properties.Resources.resources
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\EX 06 IValueConverter\obj\x86\Debug\EX 06 IValueConverter.csproj.GenerateResource.Cache

@@ -1,0 +1,13 @@
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\No Styles\bin\Debug\No Styles.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\No Styles\bin\Debug\No Styles.pdb
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\No Styles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\No Styles\obj\x86\Debug\MainWindow.baml
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\No Styles\obj\x86\Debug\MainWindow.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\No Styles\obj\x86\Debug\App.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\No Styles\obj\x86\Debug\No Styles_MarkupCompile.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\No Styles\obj\x86\Debug\No Styles.g.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\No Styles\obj\x86\Debug\No_Styles.Properties.Resources.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\No Styles\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\No Styles\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\No Styles\obj\x86\Debug\No Styles.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\No Styles\obj\x86\Debug\No Styles.pdb

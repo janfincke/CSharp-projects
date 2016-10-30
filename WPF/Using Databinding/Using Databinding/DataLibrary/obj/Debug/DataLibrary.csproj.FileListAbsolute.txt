@@ -1,0 +1,29 @@
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\DataLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\DataLibrary\bin\Debug\VIA.DataLibrary.dll
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\DataLibrary\bin\Debug\VIA.DataLibrary.pdb
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\DataLibrary\obj\Debug\VIA.DataLibrary.dll
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\DataLibrary\obj\Debug\VIA.DataLibrary.pdb
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\DataLibrary\obj\Debug\VIA.DataLibrary.g.resources
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\DataLibrary\bin\Debug\VIA.DataLibrary.dll
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\DataLibrary\bin\Debug\VIA.DataLibrary.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\DataLibrary\obj\Debug\VIA.DataLibrary.g.resources
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\DataLibrary\obj\Debug\VIA.DataLibrary.dll
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\DataLibrary\obj\Debug\VIA.DataLibrary.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Databinding\DataLibrary\obj\Debug\DataLibrary.csprojResolveAssemblyReference.cache
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\DataLibrary\bin\Debug\VIA.DataLibrary.dll
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\DataLibrary\bin\Debug\VIA.DataLibrary.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\DataLibrary\obj\Debug\DataLibrary.csprojResolveAssemblyReference.cache
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\DataLibrary\obj\Debug\VIA.DataLibrary.g.resources
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\DataLibrary\obj\Debug\VIA.DataLibrary.dll
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Databinding\DataLibrary\obj\Debug\VIA.DataLibrary.pdb
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\DataLibrary\bin\Debug\VIA.DataLibrary.dll
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\DataLibrary\bin\Debug\VIA.DataLibrary.pdb
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\DataLibrary\obj\Debug\VIA.DataLibrary.g.resources
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\DataLibrary\obj\Debug\VIA.DataLibrary.dll
+C:\Users\kfoged\OneDrive\VIA\DNP2 Autumn 2014\Presentations\5 WPF\Examples\Using Databinding\DataLibrary\obj\Debug\VIA.DataLibrary.pdb
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\DataLibrary\bin\Debug\VIA.DataLibrary.dll
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\DataLibrary\bin\Debug\VIA.DataLibrary.pdb
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\DataLibrary\obj\Debug\DataLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\DataLibrary\obj\Debug\VIA.DataLibrary.g.resources
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\DataLibrary\obj\Debug\VIA.DataLibrary.dll
+C:\Users\Jan\Documents\projects\cs\WPF\Using Databinding\Using Databinding\DataLibrary\obj\Debug\VIA.DataLibrary.pdb

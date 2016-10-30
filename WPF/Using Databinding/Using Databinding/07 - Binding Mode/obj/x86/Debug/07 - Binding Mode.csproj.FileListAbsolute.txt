@@ -1,0 +1,13 @@
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\07 - Binding Mode\bin\Debug\Wincubate.Module09.Slide07.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\07 - Binding Mode\bin\Debug\Wincubate.Module09.Slide07.pdb
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\07 - Binding Mode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\07 - Binding Mode\obj\x86\Debug\MainWindow.baml
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\07 - Binding Mode\obj\x86\Debug\MainWindow.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\07 - Binding Mode\obj\x86\Debug\App.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\07 - Binding Mode\obj\x86\Debug\Wincubate.Module09.Slide07_MarkupCompile.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\07 - Binding Mode\obj\x86\Debug\Wincubate.Module09.Slide07.g.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\07 - Binding Mode\obj\x86\Debug\Wincubate.Module09.Slide07.Properties.Resources.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\07 - Binding Mode\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\07 - Binding Mode\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\07 - Binding Mode\obj\x86\Debug\Wincubate.Module09.Slide07.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\07 - Binding Mode\obj\x86\Debug\Wincubate.Module09.Slide07.pdb

@@ -1,0 +1,19 @@
+﻿<Window x:Class="EX_05_Style_with_datatrigger.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+          xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Width="200">
+        <StackPanel.Resources>
+            <Style TargetType="{x:Type TextBox}">
+                <Style.Triggers>
+                    <DataTrigger Binding="{Binding RelativeSource={RelativeSource Self}, Path=Text}" Value="enabled">
+                        <Setter Property="IsEnabled" Value="False"/>
+                    </DataTrigger>
+                </Style.Triggers>
+                <Setter Property="Background" Value="{Binding RelativeSource={RelativeSource Self}, Path=Text}"/>
+            </Style>
+        </StackPanel.Resources>
+        <TextBox Margin="3" Text="KURT"/>
+    </StackPanel>
+</Window>

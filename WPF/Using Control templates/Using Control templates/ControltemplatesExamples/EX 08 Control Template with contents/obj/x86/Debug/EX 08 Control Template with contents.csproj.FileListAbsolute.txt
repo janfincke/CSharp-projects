@@ -1,0 +1,38 @@
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\bin\Debug\EX 08 Control Template with contents.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\bin\Debug\EX 08 Control Template with contents.pdb
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\MainWindow.baml
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\MainWindow.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\App.g.cs
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX 08 Control Template with contents_MarkupCompile.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX 08 Control Template with contents.g.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX_08_Control_Template_with_contents.Properties.Resources.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX 08 Control Template with contents.exe
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX 08 Control Template with contents.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\bin\Debug\EX 08 Control Template with contents.exe
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\bin\Debug\EX 08 Control Template with contents.pdb
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX 08 Control Template with contents.csprojResolveAssemblyReference.cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\MainWindow.baml
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\MainWindow.g.cs
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\App.g.cs
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX 08 Control Template with contents_MarkupCompile.cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX 08 Control Template with contents.g.resources
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX_08_Control_Template_with_contents.Properties.Resources.resources
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX 08 Control Template with contents.csproj.GenerateResource.Cache
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX 08 Control Template with contents.exe
+C:\Uddannelse\DNPI2 Autumn 2012\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX 08 Control Template with contents.pdb
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX 08 Control Template with contents.exe
+C:\VIA\DNP2 Autumn 2013\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX 08 Control Template with contents.pdb
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX 08 Control Template with contents.exe
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX 08 Control Template with contents.pdb
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\bin\Debug\EX 08 Control Template with contents.exe
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\bin\Debug\EX 08 Control Template with contents.pdb
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\MainWindow.baml
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\MainWindow.g.cs
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\App.g.cs
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX 08 Control Template with contents_MarkupCompile.cache
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX 08 Control Template with contents.g.resources
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX_08_Control_Template_with_contents.Properties.Resources.resources
+C:\Users\kf\SkyDrive\VIA\DNP2\Presentations\5 WPF\Examples\Using Control templates\ControltemplatesExamples\EX 08 Control Template with contents\obj\x86\Debug\EX 08 Control Template with contents.csproj.GenerateResource.Cache

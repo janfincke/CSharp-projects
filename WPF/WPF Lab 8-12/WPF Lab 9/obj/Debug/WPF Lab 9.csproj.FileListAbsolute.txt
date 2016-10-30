@@ -1,0 +1,13 @@
+c:\users\jan\documents\visual studio 2015\Projects\WPF Lab 8\WPF Lab 9\bin\Debug\WPF Lab 9.exe.config
+c:\users\jan\documents\visual studio 2015\Projects\WPF Lab 8\WPF Lab 9\obj\Debug\App.g.cs
+c:\users\jan\documents\visual studio 2015\Projects\WPF Lab 8\WPF Lab 9\obj\Debug\WPF Lab 9_MarkupCompile.cache
+c:\users\jan\documents\visual studio 2015\Projects\WPF Lab 8\WPF Lab 9\bin\Debug\WPF Lab 9.exe
+c:\users\jan\documents\visual studio 2015\Projects\WPF Lab 8\WPF Lab 9\bin\Debug\WPF Lab 9.pdb
+c:\users\jan\documents\visual studio 2015\Projects\WPF Lab 8\WPF Lab 9\obj\Debug\MainWindow.g.cs
+c:\users\jan\documents\visual studio 2015\Projects\WPF Lab 8\WPF Lab 9\obj\Debug\WPF Lab 9_MarkupCompile.lref
+c:\users\jan\documents\visual studio 2015\Projects\WPF Lab 8\WPF Lab 9\obj\Debug\MainWindow.baml
+c:\users\jan\documents\visual studio 2015\Projects\WPF Lab 8\WPF Lab 9\obj\Debug\WPF Lab 9.g.resources
+c:\users\jan\documents\visual studio 2015\Projects\WPF Lab 8\WPF Lab 9\obj\Debug\WPF_Lab_9.Properties.Resources.resources
+c:\users\jan\documents\visual studio 2015\Projects\WPF Lab 8\WPF Lab 9\obj\Debug\WPF Lab 9.csproj.GenerateResource.Cache
+c:\users\jan\documents\visual studio 2015\Projects\WPF Lab 8\WPF Lab 9\obj\Debug\WPF Lab 9.exe
+c:\users\jan\documents\visual studio 2015\Projects\WPF Lab 8\WPF Lab 9\obj\Debug\WPF Lab 9.pdb

@@ -1,0 +1,14 @@
+C:\Users\Jan\Documents\projects\cs\Assignments\Assignment 6\Assignment 6\bin\Debug\Assignment 6.exe.config
+C:\Users\Jan\Documents\projects\cs\Assignments\Assignment 6\Assignment 6\obj\Debug\Assignment 6.csprojResolveAssemblyReference.cache
+C:\Users\Jan\Documents\projects\cs\Assignments\Assignment 6\Assignment 6\obj\Debug\App.g.cs
+C:\Users\Jan\Documents\projects\cs\Assignments\Assignment 6\Assignment 6\obj\Debug\Assignment 6_MarkupCompile.cache
+C:\Users\Jan\Documents\projects\cs\Assignments\Assignment 6\Assignment 6\bin\Debug\Assignment 6.exe
+C:\Users\Jan\Documents\projects\cs\Assignments\Assignment 6\Assignment 6\bin\Debug\Assignment 6.pdb
+C:\Users\Jan\Documents\projects\cs\Assignments\Assignment 6\Assignment 6\obj\Debug\MainWindow.g.cs
+C:\Users\Jan\Documents\projects\cs\Assignments\Assignment 6\Assignment 6\obj\Debug\Assignment 6_MarkupCompile.lref
+C:\Users\Jan\Documents\projects\cs\Assignments\Assignment 6\Assignment 6\obj\Debug\MainWindow.baml
+C:\Users\Jan\Documents\projects\cs\Assignments\Assignment 6\Assignment 6\obj\Debug\Assignment 6.g.resources
+C:\Users\Jan\Documents\projects\cs\Assignments\Assignment 6\Assignment 6\obj\Debug\Assignment_6.Properties.Resources.resources
+C:\Users\Jan\Documents\projects\cs\Assignments\Assignment 6\Assignment 6\obj\Debug\Assignment 6.csproj.GenerateResource.Cache
+C:\Users\Jan\Documents\projects\cs\Assignments\Assignment 6\Assignment 6\obj\Debug\Assignment 6.exe
+C:\Users\Jan\Documents\projects\cs\Assignments\Assignment 6\Assignment 6\obj\Debug\Assignment 6.pdb

@@ -1,0 +1,6 @@
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\Data\bin\Debug\Wincubate.Module09.Data.dll
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\Data\bin\Debug\Wincubate.Module09.Data.pdb
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\Data\obj\Debug\Wincubate.Module09.Data.g.resources
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\Data\obj\Debug\Wincubate.Module09.Data.dll
+C:\Uddannelse\DNP2\Presentations\#5 WPF\Examples\Using Databinding\Data\obj\Debug\Wincubate.Module09.Data.pdb

@@ -1,0 +1,14 @@
+C:\Users\Jan\Documents\projects\cs\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe.config
+C:\Users\Jan\Documents\projects\cs\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe
+C:\Users\Jan\Documents\projects\cs\Assignment 5\Assignment 5\bin\Debug\Assignment 5.pdb
+C:\Users\Jan\Documents\projects\cs\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csprojResolveAssemblyReference.cache
+C:\Users\Jan\Documents\projects\cs\Assignment 5\Assignment 5\obj\Debug\MainWindow.g.cs
+C:\Users\Jan\Documents\projects\cs\Assignment 5\Assignment 5\obj\Debug\App.g.cs
+C:\Users\Jan\Documents\projects\cs\Assignment 5\Assignment 5\obj\Debug\Assignment 5_MarkupCompile.cache
+C:\Users\Jan\Documents\projects\cs\Assignment 5\Assignment 5\obj\Debug\Assignment 5_MarkupCompile.lref
+C:\Users\Jan\Documents\projects\cs\Assignment 5\Assignment 5\obj\Debug\MainWindow.baml
+C:\Users\Jan\Documents\projects\cs\Assignment 5\Assignment 5\obj\Debug\Assignment 5.g.resources
+C:\Users\Jan\Documents\projects\cs\Assignment 5\Assignment 5\obj\Debug\Assignment_5.Properties.Resources.resources
+C:\Users\Jan\Documents\projects\cs\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csproj.GenerateResource.Cache
+C:\Users\Jan\Documents\projects\cs\Assignment 5\Assignment 5\obj\Debug\Assignment 5.exe
+C:\Users\Jan\Documents\projects\cs\Assignment 5\Assignment 5\obj\Debug\Assignment 5.pdb

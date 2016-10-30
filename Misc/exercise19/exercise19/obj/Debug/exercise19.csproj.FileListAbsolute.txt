@@ -1,0 +1,5 @@
+c:\users\jan\documents\visual studio 2015\Projects\exercise19\exercise19\bin\Debug\exercise19.exe.config
+c:\users\jan\documents\visual studio 2015\Projects\exercise19\exercise19\bin\Debug\exercise19.exe
+c:\users\jan\documents\visual studio 2015\Projects\exercise19\exercise19\bin\Debug\exercise19.pdb
+c:\users\jan\documents\visual studio 2015\Projects\exercise19\exercise19\obj\Debug\exercise19.exe
+c:\users\jan\documents\visual studio 2015\Projects\exercise19\exercise19\obj\Debug\exercise19.pdb

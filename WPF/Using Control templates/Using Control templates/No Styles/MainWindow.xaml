@@ -1,0 +1,25 @@
+﻿<Window x:Class="No_Styles.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Orientation="Horizontal">
+        <Button FontSize="22" Background="Purple" Foreground="White" Height="50" Width="50" RenderTransformOrigin=".5,.5">
+            <Button.RenderTransform>
+                <RotateTransform Angle="10"/>
+            </Button.RenderTransform>
+            1
+        </Button>
+        <Button FontSize="22" Background="Purple" Foreground="White" Height="50" Width="50" RenderTransformOrigin=".5,.5">
+            <Button.RenderTransform>
+                <RotateTransform Angle="10"/>
+            </Button.RenderTransform>
+            2
+        </Button>
+        <Button FontSize="22" Background="Purple" Foreground="White" Height="50" Width="50" RenderTransformOrigin=".5,.5">
+            <Button.RenderTransform>
+                <RotateTransform Angle="10"/>
+            </Button.RenderTransform>
+            3
+        </Button>
+    </StackPanel>
+</Window>
